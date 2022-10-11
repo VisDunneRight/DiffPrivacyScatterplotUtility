@@ -1,0 +1,14 @@
+wheel
+Cython
+nose
+numpy
+future
+scipy
+mock
+matplotlib
+diffprivlib 
+pandas
+scikit-learn==1.0.2
+pingouin
+scikit-posthocs
+jupyterlab
